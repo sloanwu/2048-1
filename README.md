@@ -3,11 +3,11 @@
 
 This is a port of Gabriele Cirulli's 2048 game to Android, all credit for game design goes to him.
 
-Logo redrawn by Margaret Lu.
+Logo redrawn by Bingqing Zhang.
 
-[Original code](https://github.com/gabrielecirulli/2048) (github.com)
+[Original code](https://github.com/sloanwu/2048-1) (github.com)
 
-[Download on Google Play](https://play.google.com/store/apps/details?id=com.tpcstld.twozerogame) (play.google.com)
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.appcup.puzzle.oracle) (play.google.com)
 
 Use governed by the MIT License.
 
