@@ -5,7 +5,7 @@ This is a port of Gabriele Cirulli's 2048 game to Android, all credit for game d
 
 Logo redrawn by Bingqing Zhang.
 
-[Original code](https://github.com/sloanwu/2048-1) (github.com)
+[Original code](https://github.com/gabrielecirulli/2048) (github.com)
 
 [Download on Google Play](https://play.google.com/store/apps/details?id=com.appcup.puzzle.oracle) (play.google.com)
 
